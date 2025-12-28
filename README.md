@@ -1,31 +1,6 @@
 🌐 INCONNU.PNG - Cloud Storage & Media Hosting
 
-<div align="center">
 
-https://inconnu-png.onrender.com/uploads/Screenshot_20251227-210150_1766880189894_avm1iw2u5g.png
-
-Professional Cloud Storage Solution · High Performance · Cross-Origin Compatible · Free & Unlimited
-
-https://img.shields.io/badge/status-online-success.svg
-https://img.shields.io/badge/version-2.0.0-blue.svg
-https://img.shields.io/badge/license-MIT-green.svg
-https://img.shields.io/badge/discord-join-7289da.svg
-https://img.shields.io/badge/deploy-render-00c7b7.svg
-
-🌐 Navigation Rapide
-
-https://img.shields.io/badge/🌐_Site_Web-000000?style=for-the-badge&logo=windowsterminal&logoColor=white
-https://img.shields.io/badge/📚_Documentation-4285F4?style=for-the-badge&logo=googledocs&logoColor=white
-https://img.shields.io/badge/🛠_API_Reference-FF6B35?style=for-the-badge&logo=postman&logoColor=white
-https://img.shields.io/badge/🤖_Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white
-
-</div>
-
----
-
-🇫🇷 Version Française
-
-🚀 Présentation
 
 INCONNU.PNG est une solution d'hébergement cloud complète développée par INCONNU BOY. Offrant un stockage sécurisé, une API REST puissante et une interface web moderne, cette plateforme permet d'uploader, gérer et partager des fichiers multimédias de manière professionnelle.
 
