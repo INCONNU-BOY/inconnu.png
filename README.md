@@ -134,7 +134,7 @@ Accédez au panneau d'administration complet avec :
 · 💾 Backup et restauration - Sauvegarde automatique
 
 ```
-🔐 Mot de passe admin: inconnuking
+🔐 Mot de passe admin: inconnu
 ```
 
 📊 Statistiques Techniques
